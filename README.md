@@ -23,3 +23,5 @@ Example :
 </h4>
 <script src="assets/js/hn.js></script>
 ```
+
+MIT LICENSE. View the LICENSE file in this repository
